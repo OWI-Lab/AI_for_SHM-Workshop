@@ -2,4 +2,4 @@ py-fatigue
 tqdm
 seaborn
 pyarrow
-
+scikit-learn
