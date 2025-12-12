@@ -41,5 +41,6 @@ You can run the workshop in a cloud environment using Binder:
 
 ---
 
-## 📂 Repository Structure
+## Demo
+
 
