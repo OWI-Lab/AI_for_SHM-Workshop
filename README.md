@@ -31,6 +31,17 @@ A guided exercise notebook where students build and analyze their own ANN model 
 
 ---
 
+### **3. Damage Detection Demonstration (Exercise Notebook)**
+A guided exercise notebook where students build and test a damage detection model.
+
+- **👉 Open in Google Colab:**  
+  https://colab.research.google.com/github/OWI-Lab/AI_for_SHM-Workshop/blob/main/Notebooks/damage_detection_demo.ipynb
+
+- **📄 Notebook Location:**  
+  `Notebooks/damage_detection_demo.ipynb`
+
+---
+
 ## 🚀 Run Online with Binder
 
 You can run the workshop in a cloud environment using Binder:
